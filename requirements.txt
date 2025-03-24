@@ -6,3 +6,9 @@ tensorboard
 matplotlib
 streamlit
 scikeras
+
+
+
+##conda create -p venv python=3.11 -y
+##pip install -r requirement.txt
+##pip install ipykernel
